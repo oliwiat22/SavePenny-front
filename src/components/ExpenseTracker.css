@@ -1,0 +1,65 @@
+table { 
+    width: 800px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border-collapse: collapse;
+    overflow: scroll;
+    margin: 0;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  
+  }
+  
+  th,td {
+    background-color: #eeee;
+    padding: 8px;
+  }
+  
+  th {
+    text-align: left;
+    color: white;
+    border-radius: 8px;
+  }
+  
+  thead th {
+  background-color: #00ADB5;
+  }
+  
+  tbody tr:hover {
+    background-color: #00ADB5;
+  }
+  
+  tbody td:hover::before {
+    content: "";
+    background-color: #eeee;
+  }
+  
+  div {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  tbody {
+    margin-bottom: 10px;
+  }
+  
+  tr {
+    margin-bottom: 5px;
+  }
+  
+  div:last-child {
+    margin-top: 20px;
+  }
+  
