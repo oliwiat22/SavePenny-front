@@ -7,6 +7,7 @@ SavePenny-front to frontend aplikacji "Save a Penny", która pozwala użytkownik
 Projekt został zbudowany z wykorzystaniem:
 - React
 - JavaScript
+- docker
 
 ## Instalacja
 Aby zainstalować i uruchomić projekt, wykonaj następujące kroki:
